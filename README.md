@@ -27,14 +27,14 @@ https://lakshman-yarramsetti.github.io/lakshman-portfolio/
 
 ## Professional Experience Highlighted
 
-- Suvidha business application
-- HR & Job Evaluation Platform
-- Corporate websites and landing pages
+- Suvidha — business application (NestJS, PostgreSQL, Drizzle ORM, AWS S3)
+- Job Evaluation — business application (React.js, Express.js, MySQL, Node.js)
+- Corporate websites and landing pages (React.js, HTML5, CSS3)
 
 ## Personal Projects Featured
 
-- TaskFlow — Role-Based Task Management System
-- DocVault — Secure Document Management System
+- TaskFlow RBAC System — Role-Based Task Management
+- DocVault File Manager — Secure Document Management
 
 ## Primary Technologies
 
