@@ -353,12 +353,13 @@ h1 {
 
 .about-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 16px;
 }
 
 .about-grid article {
   padding: 22px;
+  border-radius: 0;
 }
 
 .about-grid h3,
@@ -917,8 +918,6 @@ h1 {
     overflow-y: auto;
   }
 }
-
-
 
 
 
