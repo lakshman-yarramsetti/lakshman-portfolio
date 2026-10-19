@@ -2,7 +2,7 @@ const navToggle = document.querySelector('.nav-toggle');
 const navLinks = document.querySelectorAll('.site-nav a');
 const copyEmail = document.querySelector('#copyEmail');
 const toast = document.querySelector('#toast');
-const email = 'lakshmanyarramsetti08@gmail.com';
+const email = 'lakshman.yarramsetti.dev@gmail.com';
 
 function showToast(message) {
   if (!toast) return;
